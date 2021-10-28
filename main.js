@@ -86,7 +86,7 @@ function mathunits()
 }
 function genres()
 {
-    window.location.replace("Books.html");
+    window.location.replace("books.html");
 }
 function histor()
 {
